@@ -12,8 +12,8 @@ The attached ipynb file (Akhil_EMNIST_(Session3x) (2).ipynb) contains code block
 "training_summary.txt" contains the summarized training loss values and accuracy after each epoch.
 
 Below are the plots for the train/test loss values and accuracy v/s training epoch:
-![Loss v/s Epoch](https://github.com/AkhilP9182/EMNIST-Images-Classification-using-CNN/main/loss.png?raw=true)
-![Accuracy v/s Epoch](https://github.com/AkhilP9182/EMNIST-Images-Classification-using-CNN/main/accuracy.png?raw=true)
+![Loss v/s Epoch](https://github.com/AkhilP9182/EMNIST-Images-Classification-using-CNN/blob/main/accuracy.png?raw=true)
+![Accuracy v/s Epoch](https://github.com/AkhilP9182/EMNIST-Images-Classification-using-CNN/blob/main/loss.png?raw=true)
 
 
 
