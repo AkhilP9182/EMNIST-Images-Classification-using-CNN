@@ -8,12 +8,12 @@ The attached ipynb file (Akhil_EMNIST_CNN.ipynb) contains code blocks for:-
 4. Loss and Accuracy plots
 5. Output v/s Ground truth Check
 
-"training_logs.txt" contains the training logs for each iteration step within each epoch.</br>
+"training_logs.txt" contains the training logs for each iteration step within each epoch (lr = 0.005 and 0.0005 after 10 epochs, batch size=2048).</br>
 "training_summary.txt" contains the summarized training loss values and accuracy after each epoch.
 
 Below are the plots for the train/test loss values and accuracy v/s training epoch:
-![Loss v/s Epoch](https://github.com/[AkhilP9182]/[EMNIST-Images-Classification-using-CNN]/blob/[main]/loss.jpg?raw=true)
-![Accuracy v/s Epoch](https://github.com/[AkhilP9182]/[EMNIST-Images-Classification-using-CNN]/blob/[main]/accuracy.jpg?raw=true)
+![Loss v/s Epoch](https://github.com/[AkhilP9182]/[EMNIST-Images-Classification-using-CNN]/blob/[main]/loss.png?raw=true)
+![Accuracy v/s Epoch](https://github.com/[AkhilP9182]/[EMNIST-Images-Classification-using-CNN]/blob/[main]/accuracy.png?raw=true)
 
 
 
